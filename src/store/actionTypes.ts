@@ -1,0 +1,1 @@
+export const START_LOAD: string = "START_LOAD";
